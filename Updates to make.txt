@@ -1,0 +1,3 @@
+The training ofthe AI is off (look into alternate training styles)
+
+Add help funtionalty to explain the different options
